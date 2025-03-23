@@ -3,4 +3,4 @@ A core JavaScript HTML-served Three.js web page deployed to simulate a basic imm
 
 ![Immune System Sample](assets/immunesystemsample.gif)  
 
-A life working page of the simulation in action may be found [here](https://cheddarbutler.com/iss)
+A live working page of the simulation in action may be found [here](https://cheddarbutler.com/iss)
