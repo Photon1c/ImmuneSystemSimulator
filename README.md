@@ -4,3 +4,9 @@ A basic immune system simulation implemented using a JavaScript core and Three.j
 ![Immune System Sample](assets/immunesystemsample.gif)  
 
 A live working page of the simulation in action may be found [here](https://cheddarbutler.com/iss)
+
+## Usage  
+
+Deploy http server (i.e with Python, http-server, live-server, etc.)
+
+Page should be viewable (example: ```cd app``` ```live-server```
