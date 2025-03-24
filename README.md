@@ -9,4 +9,10 @@ A live working page of the simulation in action may be found [here](https://ched
 
 Deploy http server (i.e with Python, http-server, live-server, etc.)
 
-Page should be viewable (example: ```cd app``` ```live-server```
+Page should be viewable:  
+
+Example:
+
+```cd app```
+
+```live-server```
