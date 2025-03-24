@@ -16,3 +16,5 @@ Example:
 ```cd app```
 
 ```live-server```
+
+Built with Cursor and GPT-4o
