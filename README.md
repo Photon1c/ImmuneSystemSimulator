@@ -1,5 +1,5 @@
 # ImmuneSystemSimulator
-A core JavaScript HTML-served Three.js web page deployed to simulate a basic immune system. For educational purposes only.
+A basic immune system simulation implemented using core JavaScript and Three.js, deployed as an HTML-served web page.. For educational purposes only.
 
 ![Immune System Sample](assets/immunesystemsample.gif)  
 
